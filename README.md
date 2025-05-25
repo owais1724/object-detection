@@ -42,21 +42,3 @@ bash
 Copy
 Edit
 pip install numpy opencv-python torch torchvision
-Usage
-Open the YOLO_V3.ipynb notebook in Jupyter:
-
-bash
-Copy
-Edit
-jupyter notebook YOLO_V3.ipynb
-Follow the notebook steps to load images, run detection, and visualize results.
-
-About YOLOv3
-YOLOv3 is a state-of-the-art real-time object detection algorithm that balances speed and accuracy. It predicts bounding boxes and class probabilities directly from full images in a single evaluation, making it faster than many other object detection methods.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-For questions or suggestions, please contact owais1724.
-
